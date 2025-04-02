@@ -10,7 +10,7 @@
         transform-origin: 0 deg;
     }
     to{
-        transform-origin: ;
+        transform: origin 360 (deg) ;
     }
     
 }
